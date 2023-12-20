@@ -1,0 +1,1000 @@
+Nashville-Davidson,16.2,634464,Tennessee
+Baltimore,-4.0,622104,Maryland
+Oklahoma City,20.2,610613,Oklahoma
+Louisville/Jefferson County,10.0,609893,Kentucky
+Portland,15.0,609456,Oregon
+Las Vegas,24.5,603488,Nevada
+Milwaukee,0.3,599164,Wisconsin
+Albuquerque,23.5,556495,New Mexico
+Tucson,7.5,526116,Arizona
+Fresno,18.3,509924,California
+Sacramento,17.2,479686,California
+Long Beach,1.5,469428,California
+Kansas City,5.5,467007,Missouri
+Mesa,13.5,457587,Arizona
+Virginia Beach,5.1,448479,Virginia
+Atlanta,6.2,447841,Georgia
+Colorado Springs,21.4,439886,Colorado
+Omaha,5.9,434353,Nebraska
+Raleigh,48.7,431746,North Carolina
+Miami,14.9,417650,Florida
+Oakland,1.3,406253,California
+Minneapolis,4.5,400070,Minnesota
+Tulsa,1.3,398121,Oklahoma
+Cleveland,-18.1,390113,Ohio
+Wichita,9.7,386552,Kansas
+Arlington,13.3,379577,Texas
+New Orleans,-21.6,378715,Louisiana
+Bakersfield,48.4,363630,California
+Tampa,16.0,352957,Florida
+Honolulu,-6.2,347884,Hawaii
+Aurora,24.4,345803,Colorado
+Anaheim,4.7,345012,California
+Santa Ana,-1.2,334227,California
+St. Louis,-8.2,318416,Missouri
+Riverside,22.5,316619,California
+New York,4.8,8405837,New York
+Los Angeles,4.8,3884307,California
+Chicago,-6.1,2718782,Illinois
+Houston,11.0,2195914,Texas
+Philadelphia,2.6,1553165,Pennsylvania
+Phoenix,14.0,1513367,Arizona
+San Antonio,21.0,1409019,Texas
+San Diego,10.5,1355896,California
+Dallas,5.6,1257676,Texas
+San Jose,10.5,998537,California
+Austin,31.7,885400,Texas
+Indianapolis,7.8,843393,Indiana
+Jacksonville,14.3,842583,Florida
+San Francisco,7.7,837442,California
+Columbus,14.8,822553,Ohio
+Charlotte,39.1,792862,North Carolina
+Fort Worth,45.1,792727,Texas
+Detroit,-27.1,688701,Michigan
+El Paso,19.4,674433,Texas
+Memphis,-5.3,653450,Tennessee
+Seattle,15.6,652405,Washington
+Denver,16.7,649495,Colorado
+Washington,13.0,646449,District of Columbia
+Boston,9.4,645966,Massachusetts
+Corpus Christi,14.1,316381,Texas
+Lexington-Fayette,18.0,308428,Kentucky
+Pittsburgh,-8.3,305841,Pennsylvania
+Anchorage,15.4,300950,Alaska
+Stockton,21.8,298118,California
+Cincinnati,-10.1,297517,Ohio
+St. Paul,2.8,294873,Minnesota
+Toledo,-10.0,282313,Ohio
+Greensboro,22.3,279639,North Carolina
+Newark,2.1,278427,New Jersey
+Plano,22.4,274409,Texas
+Henderson,51.0,270811,Nevada
+Lincoln,18.0,268738,Nebraska
+Buffalo,-11.3,258959,New York
+Jersey City,7.2,257342,New Jersey
+Chula Vista,46.2,256780,California
+Fort Wayne,1.0,256496,Indiana
+Orlando,31.2,255483,Florida
+St. Petersburg,0.3,249688,Florida
+Chandler,38.7,249146,Arizona
+Laredo,38.2,248142,Texas
+Norfolk,5.0,246139,Virginia
+Durham,29.9,245475,North Carolina
+Madison,15.8,243344,Wisconsin
+Lubbock,19.6,239538,Texas
+Irvine,61.3,236716,California
+Winston-Salem,16.9,236441,North Carolina
+Glendale,5.7,234632,Arizona
+Garland,8.5,234566,Texas
+Hialeah,3.2,233394,Florida
+Reno,26.8,233294,Nevada
+Chesapeake,15.1,230571,Virginia
+Gilbert,96.0,229972,Arizona
+Baton Rouge,0.4,229426,Louisiana
+Irving,19.1,228653,Texas
+Scottsdale,11.0,226918,Arizona
+North Las Vegas,92.2,226877,Nevada
+Fremont,10.0,224922,California
+Boise City,9.5,214237,Idaho
+Richmond,8.2,214114,Virginia
+San Bernardino,13.0,213708,California
+Birmingham,-12.3,212113,Alabama
+Spokane,7.0,210721,Washington
+Rochester,-4.1,210358,New York
+Des Moines,3.9,207510,Iowa
+Modesto,7.7,204933,California
+Fayetteville,2.4,204408,North Carolina
+Tacoma,4.9,203446,Washington
+Oxnard,18.2,203007,California
+Fontana,38.3,203003,California
+Columbus,8.7,202824,Georgia
+Montgomery,-0.1,201332,Alabama
+Moreno Valley,40.4,201175,California
+Shreveport,-0.1,200327,Louisiana
+Aurora,38.4,199963,Illinois
+Yonkers,1.8,199766,New York
+Akron,-8.6,198100,Ohio
+Huntington Beach,3.9,197575,California
+Little Rock,7.6,197357,Arkansas
+Augusta-Richmond County,1.1,197350,Georgia
+Amarillo,12.8,196429,Texas
+Glendale,0.3,196021,California
+Mobile,-1.9,194899,Alabama
+Grand Rapids,-2.8,192294,Michigan
+Salt Lake City,5.1,191180,Utah
+Tallahassee,21.8,186411,Florida
+Huntsville,16.3,186254,Alabama
+Grand Prairie,43.1,183372,Texas
+Knoxville,3.9,183270,Tennessee
+Worcester,5.8,182544,Massachusetts
+Newport News,0.9,182020,Virginia
+Brownsville,26.8,181860,Texas
+Overland Park,19.4,181260,Kansas
+Santa Clarita,15.3,179590,California
+Providence,2.3,177994,Rhode Island
+Garden Grove,5.8,175140,California
+Chattanooga,10.5,173366,Tennessee
+Oceanside,6.6,172794,California
+Jackson,-6.8,172638,Mississippi
+Fort Lauderdale,0.7,172389,Florida
+Santa Rosa,15.2,171990,California
+Rancho Cucamonga,32.7,171386,California
+Port St. Lucie,91.7,171016,Florida
+Tempe,5.8,168228,Arizona
+Ontario,5.5,167500,California
+Vancouver,14.2,167405,Washington
+Cape Coral,60.4,165831,Florida
+Sioux Falls,31.1,164676,South Dakota
+Springfield,7.8,164122,Missouri
+Peoria,46.5,162592,Arizona
+Pembroke Pines,17.4,162329,Florida
+Elk Grove,97.1,161007,California
+Salem,16.4,160614,Oregon
+Lancaster,33.8,159523,California
+Corona,23.6,159503,California
+Eugene,14.4,159190,Oregon
+Palmdale,33.7,157161,California
+Salinas,8.4,155662,California
+Springfield,1.1,153703,Massachusetts
+Pasadena,7.5,152735,Texas
+Fort Collins,26.6,152061,Colorado
+Hayward,7.5,151574,California
+Pomona,2.1,151348,California
+Cary,55.1,151088,North Carolina
+Rockford,-1.0,150251,Illinois
+Alexandria,15.0,148892,Virginia
+Escondido,10.7,148738,California
+McKinney,165.3,148559,Texas
+Kansas City,1.1,148483,Kansas
+Joliet,36.5,147806,Illinois
+Sunnyvale,11.9,147559,California
+Torrance,6.6,147478,California
+Bridgeport,5.4,147216,Connecticut
+Lakewood,1.9,147214,Colorado
+Hollywood,4.8,146526,Florida
+Paterson,-2.2,145948,New Jersey
+Naperville,12.0,144864,Illinois
+Syracuse,-0.9,144669,New York
+Mesquite,14.7,143484,Texas
+Dayton,-13.5,143355,Ohio
+Savannah,7.5,142772,Georgia
+Clarksville,36.9,142357,Tennessee
+Orange,7.7,139969,California
+Pasadena,3.8,139731,California
+Fullerton,9.8,138981,California
+Killeen,52.1,137147,Texas
+Frisco,287.7,136791,Texas
+Hampton,-6.6,136699,Virginia
+McAllen,27.6,136639,Texas
+Warren,-2.3,134873,Michigan
+Bellevue,19.1,133992,Washington
+West Valley City,22.2,133579,Utah
+Columbia,11.7,133358,South Carolina
+Olathe,40.4,131885,Kansas
+Sterling Heights,5.2,131224,Michigan
+New Haven,5.5,130660,Connecticut
+Miramar,74.7,130288,Florida
+Waco,12.5,129030,Texas
+Thousand Oaks,9.5,128731,California
+Cedar Rapids,5.4,128429,Iowa
+Charleston,29.2,127999,South Carolina
+Visalia,33.6,127763,California
+Topeka,3.4,127679,Kansas
+Elizabeth,5.5,127558,New Jersey
+Gainesville,12.8,127488,Florida
+Thornton,52.9,127359,Colorado
+Roseville,56.2,127035,California
+Carrollton,14.9,126700,Texas
+Coral Springs,5.7,126604,Florida
+Stamford,7.6,126456,Connecticut
+Simi Valley,12.6,126181,California
+Concord,2.9,125880,California
+Hartford,0.6,125017,Connecticut
+Kent,54.3,124435,Washington
+Lafayette,11.0,124276,Louisiana
+Midland,30.4,123933,Texas
+Surprise,281.9,123546,Arizona
+Denton,47.1,123099,Texas
+Victorville,87.6,121096,California
+Evansville,-0.8,120310,Indiana
+Santa Clara,17.4,120245,California
+Abilene,3.6,120099,Texas
+Athens-Clarke County,19.0,119980,Georgia
+Vallejo,1.2,118837,California
+Allentown,11.2,118577,Pennsylvania
+Norman,22.0,118197,Oklahoma
+Beaumont,3.7,117796,Texas
+Independence,3.2,117240,Missouri
+Murfreesboro,65.1,117044,Tennessee
+Ann Arbor,2.0,117025,Michigan
+Springfield,4.2,117006,Illinois
+Berkeley,13.3,116768,California
+Peoria,3.0,116513,Illinois
+Provo,10.0,116288,Utah
+El Monte,-0.4,115708,California
+Columbia,34.0,115276,Missouri
+Lansing,-4.4,113972,Michigan
+Fargo,24.9,113658,North Dakota
+Downey,5.3,113242,California
+Costa Mesa,2.4,112174,California
+Wilmington,24.8,112067,North Carolina
+Arvada,9.2,111707,Colorado
+Inglewood,-1.0,111542,California
+Miami Gardens,10.5,111378,Florida
+Carlsbad,39.7,110972,California
+Westminster,9.4,110945,Colorado
+Rochester,23.9,110742,Minnesota
+Odessa,22.3,110720,Texas
+Manchester,2.9,110378,New Hampshire
+Elgin,16.0,110145,Illinois
+West Jordan,38.4,110077,Utah
+Round Rock,81.0,109821,Texas
+Clearwater,0.1,109703,Florida
+Waterbury,2.2,109676,Connecticut
+Gresham,20.7,109397,Oregon
+Fairfield,12.8,109320,California
+Billings,18.6,109059,Montana
+Lowell,3.4,108861,Massachusetts
+San Buenaventura (Ventura),7.4,108817,California
+Pueblo,5.9,108249,Colorado
+High Point,24.3,107741,North Carolina
+West Covina,2.3,107740,California
+Richmond,7.9,107571,California
+Murrieta,107.4,107479,California
+Cambridge,5.5,107289,Massachusetts
+Antioch,16.9,107100,California
+Temecula,55.4,106780,California
+Norwalk,1.9,106589,California
+Centennial,3.5,106114,Colorado
+Everett,9.4,105370,Washington
+Palm Bay,31.7,104898,Florida
+Wichita Falls,0.7,104898,Texas
+Green Bay,1.9,104779,Wisconsin
+Daly City,1.0,104739,California
+Burbank,4.2,104709,California
+Richardson,13.2,104475,Texas
+Pompano Beach,4.0,104410,Florida
+North Charleston,27.4,104054,South Carolina
+Broken Arrow,28.2,103500,Oklahoma
+Boulder,9.0,103166,Colorado
+West Palm Beach,23.5,102436,Florida
+Santa Maria,30.9,102216,California
+El Cajon,7.4,102211,California
+Davenport,3.9,102157,Iowa
+Rialto,9.8,101910,California
+Las Cruces,37.6,101324,New Mexico
+San Mateo,9.0,101128,California
+Lewisville,28.9,101074,Texas
+South Bend,-6.8,100886,Indiana
+Lakeland,18.3,100710,Florida
+Erie,-2.8,100671,Pennsylvania
+Tyler,18.6,100223,Texas
+Pearland,117.2,100065,Texas
+College Station,45.2,100050,Texas
+Kenosha,9.5,99889,Wisconsin
+Sandy Springs,17.4,99770,Georgia
+Clovis,42.6,99769,California
+Flint,-20.0,99763,Michigan
+Roanoke,3.8,98465,Virginia
+Albany,4.1,98424,New York
+Jurupa Valley,5.8,98030,California
+Compton,4.5,97877,California
+San Angelo,10.2,97492,Texas
+Hillsboro,36.4,97368,Oregon
+Lawton,4.9,97151,Oklahoma
+Renton,88.4,97003,Washington
+Vista,7.7,96929,California
+Davie,17.7,96830,Florida
+Greeley,23.1,96539,Colorado
+Mission Viejo,2.9,96346,California
+Portsmouth,-4.2,96205,Virginia
+Dearborn,-2.0,95884,Michigan
+South Gate,-0.8,95677,California
+Tuscaloosa,21.1,95334,Alabama
+Livonia,-5.4,95208,Michigan
+New Bedford,1.2,95078,Massachusetts
+Vacaville,5.4,94275,California
+Brockton,-0.3,94089,Massachusetts
+Roswell,15.2,94034,Georgia
+Beaverton,17.0,93542,Oregon
+Quincy,5.8,93494,Massachusetts
+Sparks,39.4,93282,Nevada
+Yakima,11.7,93257,Washington
+Lee's Summit,31.2,93184,Missouri
+Federal Way,8.8,92734,Washington
+Carson,2.9,92599,California
+Santa Monica,9.6,92472,California
+Hesperia,46.1,92147,California
+Allen,104.0,92020,Texas
+Rio Rancho,74.4,91956,New Mexico
+Yuma,16.2,91923,Arizona
+Westminster,3.9,91739,California
+Orem,8.5,91648,Utah
+Lynn,2.6,91589,Massachusetts
+Redding,11.9,91119,California
+Spokane Valley,12.6,91113,Washington
+Miami Beach,3.3,91026,Florida
+League City,98.3,90983,Texas
+Lawrence,12.7,90811,Kansas
+Santa Barbara,0.9,90412,California
+Plantation,8.6,90268,Florida
+Sandy,1.3,90231,Utah
+Sunrise,4.6,90116,Florida
+Macon,-7.3,89981,Georgia
+Longmont,24.4,89919,Colorado
+Boca Raton,7.5,89407,Florida
+San Marcos,60.0,89387,California
+Greenville,41.9,89130,North Carolina
+Waukegan,0.5,88826,Illinois
+Fall River,-3.7,88697,Massachusetts
+Chico,14.2,88077,California
+Newton,4.9,87971,Massachusetts
+San Leandro,10.3,87965,California
+Reading,8.0,87893,Pennsylvania
+Norwalk,5.6,87776,Connecticut
+Fort Smith,8.6,87650,Arkansas
+Newport Beach,10.4,87273,California
+Asheville,19.6,87236,North Carolina
+Nashua,0.4,87137,New Hampshire
+Edmond,26.9,87004,Oklahoma
+Whittier,3.3,86635,California
+Nampa,57.9,86518,Idaho
+Bloomington,1.3,86319,Minnesota
+Deltona,23.1,86290,Florida
+Hawthorne,2.3,86199,California
+Duluth,-0.1,86128,Minnesota
+Carmel,60.4,85927,Indiana
+Suffolk,33.5,85728,Virginia
+Clifton,7.9,85390,New Jersey
+Citrus Heights,-0.1,85285,California
+Livermore,15.1,85156,California
+Tracy,45.9,84691,California
+Alhambra,-0.7,84577,California
+Kirkland,87.5,84430,Washington
+Trenton,-1.2,84349,New Jersey
+Ogden,8.6,84249,Utah
+Hoover,32.7,84126,Alabama
+Cicero,-1.6,84103,Illinois
+Fishers,114.8,83891,Indiana
+Sugar Land,29.1,83860,Texas
+Danbury,11.4,83684,Connecticut
+Meridian,127.6,83596,Idaho
+Indio,66.0,83539,California
+Concord,47.4,83506,North Carolina
+Menifee,95.0,83447,California
+Champaign,18.3,83424,Illinois
+Buena Park,6.1,82882,California
+Troy,2.2,82821,Michigan
+O'Fallon,62.6,82809,Missouri
+Johns Creek,36.5,82788,Georgia
+Bellingham,21.8,82631,Washington
+Westland,-4.7,82578,Michigan
+Bloomington,16.1,82575,Indiana
+Sioux City,-2.9,82459,Iowa
+Warwick,-4.6,81971,Rhode Island
+Hemet,37.6,81750,California
+Longview,11.6,81443,Texas
+Farmington Hills,-0.9,81295,Michigan
+Bend,54.3,81236,Oregon
+Lakewood,2.1,81121,California
+Merced,25.4,81102,California
+Mission,74.5,81050,Texas
+Chino,15.6,80988,California
+Redwood City,7.1,80872,California
+Edinburg,65.1,80836,Texas
+Cranston,1.4,80566,Rhode Island
+Parma,-5.9,80429,Ohio
+New Rochelle,9.9,79446,New York
+Lake Forest,4.2,79312,California
+Napa,8.4,79068,California
+Hammond,-4.6,78967,Indiana
+Fayetteville,32.9,78960,Arkansas
+Bloomington,20.1,78902,Illinois
+Avondale,111.5,78822,Arizona
+Somerville,1.6,78804,Massachusetts
+Palm Coast,137.2,78740,Florida
+Bryan,19.3,78709,Texas
+Gary,-23.4,78450,Indiana
+Largo,5.1,78409,Florida
+Brooklyn Park,16.0,78373,Minnesota
+Tustin,15.6,78327,California
+Racine,-4.4,78199,Wisconsin
+Deerfield Beach,4.8,78041,Florida
+Lynchburg,19.5,78014,Virginia
+Mountain View,10.1,77846,California
+Medford,17.1,77677,Oregon
+Lawrence,7.5,77657,Massachusetts
+Bellflower,6.3,77593,California
+Melbourne,5.9,77508,Florida
+St. Joseph,4.1,77147,Missouri
+Camden,-3.6,76903,New Jersey
+St. George,53.1,76817,Utah
+Kennewick,29.1,76762,Washington
+Baldwin Park,0.8,76635,California
+Chino Hills,13.6,76572,California
+Alameda,5.4,76419,California
+Albany,-0.6,76185,Georgia
+Arlington Heights,-0.6,75994,Illinois
+Scranton,0.0,75806,Pennsylvania
+Evanston,1.9,75570,Illinois
+Kalamazoo,-1.9,75548,Michigan
+Baytown,13.1,75418,Texas
+Upland,9.5,75413,California
+Springdale,57.1,75229,Arkansas
+Bethlehem,5.2,75018,Pennsylvania
+Schaumburg,-0.5,74907,Illinois
+Mount Pleasant,53.2,74885,South Carolina
+Auburn,34.9,74860,Washington
+Decatur,-8.7,74710,Illinois
+San Ramon,65.8,74513,California
+Pleasanton,15.2,74110,California
+Wyoming,6.5,74100,Michigan
+Lake Charles,3.0,74024,Louisiana
+Plymouth,12.0,73987,Minnesota
+Bolingbrook,29.7,73936,Illinois
+Pharr,55.7,73790,Texas
+Appleton,4.5,73596,Wisconsin
+Gastonia,8.2,73209,North Carolina
+Folsom,38.6,73098,California
+Southfield,-6.7,73006,Michigan
+Rochester Hills,5.7,72952,Michigan
+New Britain,1.9,72939,Connecticut
+Goodyear,271.0,72864,Arizona
+Canton,-10.3,72535,Ohio
+Warner Robins,45.7,72531,Georgia
+Union City,7.4,72528,California
+Perris,98.7,72326,California
+Manteca,42.7,71948,California
+Iowa City,13.8,71591,Iowa
+Jonesboro,28.3,71551,Arkansas
+Wilmington,-1.6,71525,Delaware
+Lynwood,2.0,71371,California
+Loveland,37.4,71334,Colorado
+Pawtucket,-2.5,71172,Rhode Island
+Boynton Beach,17.3,71097,Florida
+Waukesha,8.0,71016,Wisconsin
+Gulfport,-0.6,71012,Mississippi
+Apple Valley,29.9,70924,California
+Passaic,4.3,70868,New Jersey
+Rapid City,17.9,70812,South Dakota
+Layton,20.2,70790,Utah
+Lafayette,14.5,70373,Indiana
+Turlock,23.5,70365,California
+Muncie,-0.7,70316,Indiana
+Temple,27.1,70190,Texas
+Missouri City,31.1,70185,Texas
+Redlands,9.4,69999,California
+Santa Fe,10.5,69976,New Mexico
+Lauderhill,4.2,69813,Florida
+Milpitas,11.0,69783,California
+Palatine,4.5,69350,Illinois
+Missoula,19.7,69122,Montana
+Rock Hill,36.0,69103,South Carolina
+Jacksonville,5.0,69079,North Carolina
+Franklin,48.5,68886,Tennessee
+Flagstaff,29.3,68667,Arizona
+Flower Mound,32.5,68609,Texas
+Weston,34.5,68388,Florida
+Waterloo,-0.5,68366,Iowa
+Union City,1.7,68247,New Jersey
+Mount Vernon,-0.2,68224,New York
+Fort Myers,31.2,68190,Florida
+Dothan,16.6,68001,Alabama
+Rancho Cordova,26.4,67911,California
+Redondo Beach,6.7,67815,California
+Jackson,12.9,67685,Tennessee
+Pasco,98.5,67599,Washington
+St. Charles,11.3,67569,Missouri
+Eau Claire,8.7,67545,Wisconsin
+North Richland Hills,20.2,67317,Texas
+Bismarck,20.1,67034,North Dakota
+Yorba Linda,13.4,67032,California
+Kenner,-4.8,66975,Louisiana
+Walnut Creek,3.5,66900,California
+Frederick,25.9,66893,Maryland
+Oshkosh,5.3,66778,Wisconsin
+Pittsburg,16.6,66695,California
+Palo Alto,13.7,66642,California
+Bossier City,17.4,66333,Louisiana
+Portland,3.2,66318,Maine
+St. Cloud,10.9,66297,Minnesota
+Davis,11.9,66205,California
+South San Francisco,9.1,66174,California
+Camarillo,14.9,66086,California
+North Little Rock,9.0,66075,Arkansas
+Schenectady,6.7,65902,New York
+Gaithersburg,24.2,65690,Maryland
+Harlingen,11.6,65665,Texas
+Woodbury,39.8,65656,Minnesota
+Eagan,2.6,65453,Minnesota
+Yuba City,27.9,65416,California
+Maple Grove,27.3,65415,Minnesota
+Youngstown,-20.2,65184,Ohio
+Skokie,2.8,65176,Illinois
+Kissimmee,32.6,65173,Florida
+Johnson City,16.2,65123,Tennessee
+Victoria,7.5,65098,Texas
+San Clemente,28.6,65040,California
+Bayonne,5.1,65028,New Jersey
+Laguna Niguel,2.8,64652,California
+East Orange,-7.4,64544,New Jersey
+Shawnee,32.2,64323,Kansas
+Homestead,100.7,64079,Florida
+Rockville,34.0,64072,Maryland
+Delray Beach,6.1,64072,Florida
+Janesville,5.6,63820,Wisconsin
+Conway,46.1,63816,Arkansas
+Pico Rivera,0.4,63771,California
+Lorain,-7.2,63710,Ohio
+Montebello,2.0,63495,California
+Lodi,10.1,63338,California
+New Braunfels,64.0,63279,Texas
+Marysville,115.7,63269,Washington
+Tamarac,12.9,63155,Florida
+Madera,44.4,63105,California
+Conroe,61.9,63032,Texas
+Santa Cruz,12.5,62864,California
+Eden Prairie,13.3,62603,Minnesota
+Cheyenne,16.9,62448,Wyoming
+Daytona Beach,-2.3,62316,Florida
+Alpharetta,33.6,62298,Georgia
+Hamilton,2.7,62258,Ohio
+Waltham,5.0,62227,Massachusetts
+Coon Rapids,0.6,62103,Minnesota
+Haverhill,5.0,62088,Massachusetts
+Council Bluffs,6.2,61969,Iowa
+Taylor,-6.3,61817,Michigan
+Utica,2.2,61808,New York
+Ames,21.3,61792,Iowa
+La Habra,3.6,61653,California
+Encinitas,5.8,61588,California
+Bowling Green,24.1,61488,Kentucky
+Burnsville,1.9,61434,Minnesota
+Greenville,8.2,61397,South Carolina
+West Des Moines,29.8,61255,Iowa
+Cedar Park,134.3,61238,Texas
+Tulare,33.3,61170,California
+Monterey Park,1.5,61085,California
+Vineland,9.3,61050,New Jersey
+Terre Haute,2.5,61025,Indiana
+North Miami,2.0,61007,Florida
+Mansfield,114.2,60872,Texas
+West Allis,-0.6,60697,Wisconsin
+Bristol,0.4,60568,Connecticut
+Taylorsville,2.9,60519,Utah
+Malden,7.4,60509,Massachusetts
+Meriden,3.7,60456,Connecticut
+Blaine,32.8,60407,Minnesota
+Wellington,55.0,60202,Florida
+Cupertino,14.3,60189,California
+Springfield,12.4,60177,Oregon
+Rogers,50.6,60112,Arkansas
+St. Clair Shores,-4.6,60070,Michigan
+Gardena,3.4,59957,California
+Pontiac,-11.4,59887,Michigan
+National City,10.1,59834,California
+Grand Junction,30.9,59778,Colorado
+Rocklin,60.3,59738,California
+Chapel Hill,24.1,59635,North Carolina
+Casper,19.9,59628,Wyoming
+Broomfield,50.3,59471,Colorado
+Petaluma,8.4,59440,California
+South Jordan,100.1,59366,Utah
+Springfield,-9.8,59357,Ohio
+Great Falls,3.9,59351,Montana
+Lancaster,4.5,59325,Pennsylvania
+North Port,154.6,59212,Florida
+Lakewood,1.1,59097,Washington
+Marietta,-3.8,59089,Georgia
+San Rafael,5.0,58994,California
+Royal Oak,-1.7,58946,Michigan
+Des Plaines,3.2,58918,Illinois
+Huntington Park,-4.1,58879,California
+La Mesa,6.9,58642,California
+Orland Park,13.9,58590,Illinois
+Auburn,26.4,58582,Alabama
+Lakeville,34.3,58562,Minnesota
+Owensboro,7.7,58416,Kentucky
+Moore,41.5,58414,Oklahoma
+Jupiter,46.2,58298,Florida
+Idaho Falls,14.0,58292,Idaho
+Dubuque,0.9,58253,Iowa
+Bartlett,31.7,58226,Tennessee
+Rowlett,28.6,58043,Texas
+Novi,22.0,57960,Michigan
+White Plains,8.5,57866,New York
+Arcadia,8.3,57639,California
+Redmond,26.0,57530,Washington
+Lake Elsinore,96.5,57525,California
+Ocala,20.8,57468,Florida
+Tinley Park,16.3,57282,Illinois
+Port Orange,22.8,57203,Florida
+Medford,2.7,57170,Massachusetts
+Oak Lawn,3.3,57073,Illinois
+Rocky Mount,-3.1,56954,North Carolina
+Kokomo,21.3,56895,Indiana
+Coconut Creek,28.4,56792,Florida
+Bowie,8.6,56759,Maryland
+Berwyn,5.1,56758,Illinois
+Midwest City,4.5,56756,Oklahoma
+Fountain Valley,3.0,56707,California
+Buckeye,480.9,56683,Arizona
+Dearborn Heights,-3.0,56620,Michigan
+Woodland,13.8,56590,California
+Noblesville,88.1,56540,Indiana
+Valdosta,22.3,56481,Georgia
+Diamond Bar,0.1,56449,California
+Manhattan,22.8,56143,Kansas
+Santee,5.7,56105,California
+Taunton,0.0,56069,Massachusetts
+Sanford,42.8,56002,Florida
+Kettering,-3.1,55870,Ohio
+New Brunswick,15.5,55831,New Jersey
+Decatur,3.1,55816,Alabama
+Chicopee,1.7,55717,Massachusetts
+Anderson,-6.6,55670,Indiana
+Margate,2.7,55456,Florida
+Weymouth Town,0.1,55419,Massachusetts
+Hempstead,4.0,55361,New York
+Corvallis,11.8,55298,Oregon
+Eastvale,0,55191,California
+Porterville,20.1,55174,California
+West Haven,5.1,55046,Connecticut
+Brentwood,122.3,55000,California
+Paramount,-0.7,54980,California
+Grand Forks,11.5,54932,North Dakota
+Georgetown,91.9,54898,Texas
+St. Peters,6.5,54842,Missouri
+Shoreline,2.9,54790,Washington
+Mount Prospect,-2.5,54771,Illinois
+Hanford,30.3,54686,California
+Normal,19.7,54664,Illinois
+Rosemead,1.7,54561,California
+Lehi,176.3,54382,Utah
+Pocatello,5.4,54350,Idaho
+Highland,21.0,54291,California
+Novato,13.3,54194,California
+Port Arthur,-6.0,54135,Texas
+Carson City,2.9,54080,Nevada
+San Marcos,48.5,54076,Texas
+Hendersonville,31.7,54068,Tennessee
+Elyria,-3.7,53956,Ohio
+Revere,13.4,53756,Massachusetts
+Pflugerville,123.4,53752,Texas
+Greenwood,46.0,53665,Indiana
+Bellevue,20.5,53663,Nebraska
+Wheaton,-3.4,53648,Illinois
+Smyrna,20.0,53438,Georgia
+Sarasota,1.4,53326,Florida
+Blue Springs,9.9,53294,Missouri
+Colton,10.8,53243,California
+Euless,15.1,53224,Texas
+Castle Rock,153.5,53063,Colorado
+Cathedral City,23.2,52977,California
+Kingsport,16.7,52962,Tennessee
+Lake Havasu City,24.6,52844,Arizona
+Pensacola,-6.0,52703,Florida
+Hoboken,35.8,52575,New Jersey
+Yucaipa,26.8,52536,California
+Watsonville,12.7,52477,California
+Richland,34.6,52413,Washington
+Delano,31.8,52403,California
+Hoffman Estates,5.4,52398,Illinois
+Florissant,-2.8,52363,Missouri
+Placentia,11.8,52206,California
+West New York,13.3,52122,New Jersey
+Dublin,70.0,52105,California
+Oak Park,-0.8,52066,Illinois
+Peabody,7.5,52044,Massachusetts
+Perth Amboy,9.7,51982,New Jersey
+Battle Creek,-2.8,51848,Michigan
+Bradenton,3.4,51763,Florida
+Gilroy,23.9,51701,California
+Milford,1.8,51644,Connecticut
+Albany,25.5,51583,Oregon
+Ankeny,86.9,51567,Iowa
+La Crosse,-0.8,51522,Wisconsin
+Burlington,12.1,51510,North Carolina
+DeSoto,36.0,51483,Texas
+Harrisonburg,27.1,51395,Virginia
+Minnetonka,0.4,51368,Minnesota
+Elkhart,-2.5,51265,Indiana
+Lakewood,-9.4,51143,Ohio
+Glendora,3.1,51074,California
+Southaven,72.8,50997,Mississippi
+Charleston,-4.7,50821,West Virginia
+Joplin,11.2,50789,Missouri
+Enid,8.1,50725,Oklahoma
+Palm Beach Gardens,39.6,50699,Florida
+Brookhaven,0,50603,Georgia
+Plainfield,5.7,50588,New Jersey
+Grand Island,16.0,50550,Nebraska
+Palm Desert,13.2,50508,California
+Huntersville,92.9,50458,North Carolina
+Tigard,17.8,50444,Oregon
+Lenexa,24.6,50344,Kansas
+Saginaw,-18.2,50303,Michigan
+Kentwood,10.5,50233,Michigan
+Doral,137.6,50213,Florida
+Apple Valley,9.2,50201,Minnesota
+Grapevine,17.6,50195,Texas
+Aliso Viejo,25.4,50175,California
+Sammamish,44.1,50169,Washington
+Casa Grande,86.0,50111,Arizona
+Pinellas Park,5.9,49998,Florida
+Troy,1.5,49974,New York
+West Sacramento,55.6,49891,California
+Burien,56.7,49858,Washington
+Commerce City,135.4,49799,Colorado
+Monroe,-6.1,49761,Louisiana
+Cerritos,-3.6,49707,California
+Downers Grove,0.0,49670,Illinois
+Coral Gables,16.1,49631,Florida
+Wilson,10.1,49628,North Carolina
+Niagara Falls,-10.8,49468,New York
+Poway,2.4,49417,California
+Edina,4.1,49376,Minnesota
+Cuyahoga Falls,-0.2,49267,Ohio
+Rancho Santa Margarita,4.6,49228,California
+Harrisburg,0.6,49188,Pennsylvania
+Huntington,-5.0,49177,West Virginia
+La Mirada,4.6,49133,California
+Cypress,5.3,49087,California
+Caldwell,77.1,48957,Idaho
+Logan,14.5,48913,Utah
+Galveston,-15.2,48733,Texas
+Sheboygan,-3.9,48725,Wisconsin
+Middletown,-5.7,48630,Ohio
+Murray,6.6,48612,Utah
+Roswell,7.5,48611,New Mexico
+Parker,96.4,48608,Colorado
+Bedford,2.9,48592,Texas
+East Lansing,4.2,48554,Michigan
+Methuen,10.3,48514,Massachusetts
+Covina,3.3,48508,California
+Alexandria,4.1,48426,Louisiana
+Olympia,12.1,48338,Washington
+Euclid,-8.4,48139,Ohio
+Mishawaka,2.0,47989,Indiana
+Salina,4.5,47846,Kansas
+Azusa,6.7,47842,California
+Newark,3.1,47777,Ohio
+Chesterfield,1.9,47749,Missouri
+Leesburg,66.0,47673,Virginia
+Dunwoody,0,47591,Georgia
+Hattiesburg,3.1,47556,Mississippi
+Roseville,-1.0,47555,Michigan
+Bonita Springs,43.8,47547,Florida
+Portage,5.7,47523,Michigan
+St. Louis Park,7.3,47411,Minnesota
+Collierville,43.4,47333,Tennessee
+Middletown,3.6,47333,Connecticut
+Stillwater,20.1,47186,Oklahoma
+East Providence,-3.3,47149,Rhode Island
+Lawrence,20.5,47135,Indiana
+Wauwatosa,0.0,47134,Wisconsin
+Mentor,-6.6,46979,Ohio
+Ceres,34.0,46714,California
+Cedar Hill,42.4,46663,Texas
+Mansfield,-10.1,46454,Ohio
+Binghamton,-1.7,46444,New York
+Coeur d'Alene,32.8,46402,Idaho
+San Luis Obispo,4.4,46377,California
+Minot,26.6,46321,North Dakota
+Palm Springs,7.7,46281,California
+Pine Bluff,-16.2,46094,Arkansas
+Texas City,10.3,46081,Texas
+Summerville,62.9,46074,South Carolina
+Twin Falls,31.5,45981,Idaho
+Jeffersonville,53.3,45929,Indiana
+San Jacinto,91.8,45851,California
+Madison,53.7,45799,Alabama
+Altoona,-7.3,45796,Pennsylvania
+Columbus,16.4,45775,Indiana
+Beavercreek,19.0,45712,Ohio
+Apopka,63.9,45587,Florida
+Elmhurst,5.7,45556,Illinois
+Maricopa,2503.4,45508,Arizona
+Farmington,18.1,45426,New Mexico
+Glenview,5.2,45417,Illinois
+Cleveland Heights,-10.3,45394,Ohio
+Draper,77.4,45285,Utah
+Lincoln,285.2,45237,California
+Sierra Vista,19.3,45129,Arizona
+Lacey,41.7,44919,Washington
+Biloxi,-11.5,44820,Mississippi
+Strongsville,1.9,44730,Ohio
+Barnstable Town,-7.1,44641,Massachusetts
+Wylie,185.2,44575,Texas
+Sayreville,9.6,44412,New Jersey
+Kannapolis,18.6,44359,North Carolina
+Charlottesville,10.5,44349,Virginia
+Littleton,9.4,44275,Colorado
+Titusville,7.8,44206,Florida
+Hackensack,2.9,44113,New Jersey
+Newark,3.3,44096,California
+Pittsfield,-3.6,44057,Massachusetts
+York,6.4,43935,Pennsylvania
+Lombard,2.9,43907,Illinois
+Attleboro,4.6,43886,Massachusetts
+DeKalb,11.8,43849,Illinois
+Blacksburg,9.4,43609,Virginia
+Dublin,37.6,43607,Ohio
+Haltom City,11.4,43580,Texas
+Lompoc,5.5,43509,California
+El Centro,13.7,43363,California
+Danville,3.7,43341,California
+Jefferson City,6.7,43330,Missouri
+Cutler Bay,42.9,43328,Florida
+Oakland Park,2.7,43286,Florida
+North Miami Beach,3.6,43250,Florida
+Freeport,-1.4,43167,New York
+Moline,-1.9,43116,Illinois
+Coachella,88.4,43092,California
+Fort Pierce,6.9,43074,Florida
+Smyrna,54.9,43060,Tennessee
+Bountiful,3.9,43023,Utah
+Fond du Lac,1.7,42970,Wisconsin
+Everett,12.1,42935,Massachusetts
+Danville,-11.0,42907,Virginia
+Keller,53.3,42907,Texas
+Belleville,1.2,42895,Illinois
+Bell Gardens,-2.7,42889,California
+Cleveland,14.1,42774,Tennessee
+North Lauderdale,10.8,42757,Florida
+Fairfield,1.2,42635,Ohio
+Salem,5.1,42544,Massachusetts
+Rancho Palos Verdes,2.9,42448,California
+San Bruno,5.6,42443,California
+Concord,4.1,42419,New Hampshire
+Burlington,6.1,42284,Vermont
+Apex,98.8,42214,North Carolina
+Midland,0.9,42181,Michigan
+Altamonte Springs,2.0,42150,Florida
+Hutchinson,0.1,41889,Kansas
+Buffalo Grove,-3.4,41778,Illinois
+Urbandale,41.5,41776,Iowa
+State College,8.7,41757,Pennsylvania
+Urbana,10.3,41752,Illinois
+Plainfield,203.6,41734,Illinois
+Manassas,19.5,41705,Virginia
+Bartlett,13.1,41679,Illinois
+Kearny,2.8,41664,New Jersey
+Oro Valley,27.0,41627,Arizona
+Findlay,5.8,41512,Ohio
+Rohnert Park,0.0,41398,California
+Westfield,3.0,41301,Massachusetts
+Linden,4.7,41301,New Jersey
+Sumter,1.3,41190,South Carolina
+Wilkes-Barre,-4.3,41108,Pennsylvania
+Woonsocket,-5.2,41026,Rhode Island
+Leominster,-1.1,41002,Massachusetts
+Shelton,7.3,40999,Connecticut
+Brea,15.2,40963,California
+Covington,-4.7,40956,Kentucky
+Rockwall,117.2,40922,Texas
+Meridian,-0.9,40921,Mississippi
+Riverton,61.6,40921,Utah
+St. Cloud,86.2,40918,Florida
+Quincy,0.5,40915,Illinois
+Morgan Hill,19.5,40836,California
+Warren,-15.2,40768,Ohio
+Edmonds,2.9,40727,Washington
+Burleson,85.3,40714,Texas
+Beverly,2.0,40664,Massachusetts
+Mankato,24.7,40641,Minnesota
+Hagerstown,10.4,40612,Maryland
+Prescott,18.1,40590,Arizona
+Campbell,4.2,40584,California
+Cedar Falls,12.0,40566,Iowa
+Beaumont,254.5,40481,California
+La Puente,-1.6,40435,California
+Crystal Lake,5.3,40388,Illinois
+Fitchburg,3.5,40383,Massachusetts
+Carol Stream,-0.2,40379,Illinois
+Hickory,7.0,40361,North Carolina
+Streamwood,10.1,40351,Illinois
+Norwich,11.6,40347,Connecticut
+Coppell,10.3,40342,Texas
+San Gabriel,0.9,40275,California
+Holyoke,0.9,40249,Massachusetts
+Bentonville,97.7,40167,Arkansas
+Florence,10.2,40059,Alabama
+Peachtree Corners,0,40059,Georgia
+Brentwood,51.9,40021,Tennessee
+Bozeman,41.9,39860,Montana
+New Berlin,3.6,39834,Wisconsin
+Goose Creek,26.1,39823,South Carolina
+Huntsville,13.2,39795,Texas
+Prescott Valley,62.9,39791,Arizona
+Maplewood,12.3,39765,Minnesota
+Romeoville,79.5,39650,Illinois
+Duncanville,9.7,39605,Texas
+Atlantic City,-2.2,39551,New Jersey
+Clovis,21.3,39508,New Mexico
+The Colony,45.7,39458,Texas
+Culver City,1.3,39428,California
+Marlborough,7.6,39414,Massachusetts
+Hilton Head Island,16.0,39412,South Carolina
+Moorhead,21.3,39398,Minnesota
+Calexico,44.0,39389,California
+Bullhead City,15.9,39383,Arizona
+Germantown,4.1,39375,Tennessee
+La Quinta,59.9,39331,California
+Lancaster,10.7,39325,Ohio
+Wausau,1.7,39309,Wisconsin
+Sherman,11.6,39296,Texas
+Ocoee,57.9,39172,Florida
+Shakopee,85.7,39167,Minnesota
+Woburn,4.4,39083,Massachusetts
+Bremerton,4.9,39056,Washington
+Rock Island,-1.9,38877,Illinois
+Muskogee,-0.7,38863,Oklahoma
+Cape Girardeau,9.4,38816,Missouri
+Annapolis,7.6,38722,Maryland
+Greenacres,35.5,38696,Florida
+Ormond Beach,5.8,38661,Florida
+Hallandale Beach,12.4,38632,Florida
+Stanton,2.8,38623,California
+Puyallup,11.8,38609,Washington
+Pacifica,0.5,38606,California
+Hanover Park,0.6,38510,Illinois
+Hurst,5.8,38448,Texas
+Lima,-8.1,38355,Ohio
+Marana,166.2,38290,Arizona
+Carpentersville,22.8,38241,Illinois
+Oakley,47.7,38194,California
+Huber Heights,-0.2,38142,Ohio
+Lancaster,46.4,38071,Texas
+Montclair,12.1,38027,California
+Wheeling,4.8,38015,Illinois
+Brookfield,-1.9,37999,Wisconsin
+Park Ridge,0.1,37839,Illinois
+Florence,19.8,37792,South Carolina
+Roy,13.3,37733,Utah
+Winter Garden,142.5,37711,Florida
+Chelsea,7.3,37670,Massachusetts
+Valley Stream,3.6,37659,New York
+Spartanburg,-6.2,37647,South Carolina
+Lake Oswego,5.3,37610,Oregon
+Friendswood,28.6,37587,Texas
+Westerville,5.7,37530,Ohio
+Northglenn,15.5,37499,Colorado
+Phenix City,31.9,37498,Alabama
+Grove City,35.6,37490,Ohio
+Texarkana,7.4,37442,Texas
+Addison,2.6,37385,Illinois
+Dover,16.0,37366,Delaware
+Lincoln Park,-6.7,37313,Michigan
+Calumet City,-4.5,37240,Illinois
+Muskegon,-7.1,37213,Michigan
+Aventura,47.2,37199,Florida
+Martinez,3.4,37165,California
+Greenfield,4.8,37159,Wisconsin
+Apache Junction,15.7,37130,Arizona
+Monrovia,0.2,37101,California
+Weslaco,28.8,37093,Texas
+Keizer,14.4,37064,Oregon
+Spanish Fork,78.1,36956,Utah
+Beloit,2.9,36888,Wisconsin
+Panama City,0.1,36877,Florida
