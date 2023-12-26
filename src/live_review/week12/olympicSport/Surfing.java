@@ -1,6 +1,6 @@
 package live_review.week12.olympicSport;
 
-public class Surfing extends OlympicSport{
+public class Surfing extends OlympicSport {
 
 
     public Surfing(String name, int participants) {

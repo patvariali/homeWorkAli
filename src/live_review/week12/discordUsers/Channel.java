@@ -17,6 +17,6 @@ public class Channel {
 
     @Override
     public String toString() {
-        return  channelName;
+        return channelName;
     }
 }

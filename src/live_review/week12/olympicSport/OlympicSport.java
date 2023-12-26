@@ -11,6 +11,7 @@ public abstract class OlympicSport {
         System.out.println(getSummerOlympics());
         System.out.println(getWinterOlympics());
     }
+
     private String name;
     private int participants;
     public static final int FIRST_OLYMPICS_YEAR = 1896;
@@ -36,13 +37,13 @@ public abstract class OlympicSport {
         setParticipants(participants);
     }
 
-    public static String getWinterOlympics(){
+    public static String getWinterOlympics() {
         Map<Integer, String> winterOlympics = new LinkedHashMap<>();
 
         try {
             Scanner input = new Scanner(Path.of("src/live_review/week12/olympicSport/winterOlympic"));
             input.useDelimiter("  |\n");
-            while (input.hasNextLine()){
+            while (input.hasNextLine()) {
                 int year = input.nextInt();
                 String place = input.nextLine();
                 winterOlympics.put(year, place);
@@ -52,13 +53,14 @@ public abstract class OlympicSport {
         }
         return printable(winterOlympics);
     }
-    public static String getSummerOlympics(){
+
+    public static String getSummerOlympics() {
         Map<Integer, String> summerOlympics = new LinkedHashMap<>();
 
         try {
             Scanner input = new Scanner(Path.of("src/live_review/week12/olympicSport/winterOlympic"));
             input.useDelimiter("  |\n");
-            while (input.hasNextLine()){
+            while (input.hasNextLine()) {
                 int year = input.nextInt();
                 String place = input.nextLine();
                 summerOlympics.put(year, place);
@@ -69,13 +71,14 @@ public abstract class OlympicSport {
         return printable(summerOlympics);
     }
 
-    private static String printable(Map<Integer, String> map){
+    private static String printable(Map<Integer, String> map) {
         String result = "";
         for (Map.Entry<Integer, String> eachEntry : map.entrySet()) {
             result += eachEntry.getKey() + ":" + eachEntry.getValue() + "\n";
         }
         return result;
     }
+
     public abstract void compete();
 
     @Override

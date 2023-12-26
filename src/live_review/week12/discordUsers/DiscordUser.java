@@ -46,7 +46,6 @@ public class DiscordUser {
     }
 
 
-
     public DiscordUser(String role, String name, String id, String date) {
         setRole(role);
         setName(name);
@@ -54,10 +53,11 @@ public class DiscordUser {
         setAccCreationDate(date);
     }
 
-    public void sendMessage(String message){
+    public void sendMessage(String message) {
         System.out.println("Sending message: \"" + message + "\"");
     }
-    public  void joinDiscord(String discordUrl){
+
+    public void joinDiscord(String discordUrl) {
         System.out.println(getName() + " joining: \"" + discordUrl + "\"");
     }
 
